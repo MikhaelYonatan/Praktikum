@@ -1,0 +1,1 @@
+tambah3 x =  x + 3
